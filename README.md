@@ -71,3 +71,16 @@ https://pytorch.org/
     tar -zxvf cudnn-11.3-linux-x64-v8.2.1.32.tgz
 
 将`cuda/include/`和`cuda/lib64/`下文件分别放在`/usr/local/cuda/include/`和`/usr/local/cuda/lib64/`下
+
+
+
+### 其它
+
+[网卡驱动安装](./netdri.md)
+
+### 以上文件位置
+
+
+以上所有文件都在`mnt/zipp/`下
+
+
