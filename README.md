@@ -81,6 +81,15 @@ https://pytorch.org/
 ### 以上文件位置
 
 
-以上所有文件都在`mnt/zipp/`下
+以上所有文件都在`mnt/503-2/`下
+
+
+[fstab](./fstab.txt)配置
+
+在/etc/下
+
+去掉后缀`.txt`
+
+
 
 
