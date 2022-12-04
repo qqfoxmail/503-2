@@ -90,6 +90,14 @@ https://pytorch.org/
 
 去掉后缀`.txt`
 
+## DNS配置
 
+	sudo vi /etc/resolv.conf
+	
+学校的DNS
+
+	nameserver 119.29.29.29
+
+![](./images/dns.png)
 
 
